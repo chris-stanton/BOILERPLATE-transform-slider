@@ -2,7 +2,6 @@
 
 # Transform Slider
 
----
 
 ## Description:
 ##### Slider over an image to change between two pictures viewed as one.  Boilerplate is built with HTML, CSS and Javascript.
@@ -13,24 +12,20 @@
 
 <img src="./public/assets/images/screenshots/desktop-three.png" width="50%">
 
----
 
 ## Technologies Used
-  1. HTML5
-  2. CSS5
+  1. HTML
+  2. CSS
   3. Javascript
 
----  
 
 ## How To Install App
   1. Download zip file
   2. Open index.html file in browser
 
----
 
 #### App can be viewed at: https://transform-slider.herokuapp.com/
 
----
 
 ## License
 ##### Copyright 2017 Chris Stanton
